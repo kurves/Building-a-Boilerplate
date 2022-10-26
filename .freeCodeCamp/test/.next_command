@@ -11,3 +11,7 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+nao castle.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+nano castle.sh
